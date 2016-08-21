@@ -1,0 +1,14 @@
+layout_spectrum: 0.3486183420754969
+typography_spectrum: 0.7851744866929948
+color:
+  brandStrength: 0.7382186269387603
+  lightness: 0.05137532437220216
+  saturation: 0.2434405896347016
+  rhythmicContrast: 0.21427268371917307
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Test
