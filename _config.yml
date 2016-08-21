@@ -1,3 +1,4 @@
+layout_spectrum: 0.3486183420754969
 typography_spectrum: 0.7851744866929948
 color:
   brandStrength: 0.7382186269387603
@@ -10,6 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.3486183420754969
 name: Test
-title: Washing machines
